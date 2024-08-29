@@ -5,7 +5,7 @@ Repository Structure
 
 contains:
 - Python scripts for data processing and API testing
--**OutputFiles/:** Generated sample data and Tableau workbook files
+-OutputFiles/: Generated sample data and Tableau workbook files
 - Assessment question
 
 Key Files
