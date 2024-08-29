@@ -1,0 +1,20 @@
+Data Insights Assessment:
+
+Use the attached python script to generate sales and customer data. 
+(sample_data_generation.py)
+
+The sales data contains different currency values. 
+
+Use the below free API to get the exchange rates for different currencies used to convert all the values to USD.
+https://www.exchangerate-api.com/
+
+Create one final python script to trigger the functions in below order
+    1)Sample data generation
+    2)Get exchange rates using API
+    3)Final output file in Parquet format which will be in the reporting format
+        a)All currencies values in USD
+        b)One combined file with all the dimensions for sales and customer
+
+Create one dashboard in a reporting tool of your choice using the final parquet file from the previous step. Try to have some KPIs and a few trend charts from the above data. Use all the dimensions in the dashboard. 
+
+Share your submission as a public github repository.
