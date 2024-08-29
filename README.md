@@ -1,11 +1,9 @@
 Sales Dashboard Project
 Overview
 This repository contains a Tableau dashboard for analyzing sales performance across different regions, products, and channels. It includes scripts for data generation, processing, and API testing, as well as the final Tableau workbook and output files.
-Repository Structure
-
-contains:
+Repository Structure contains:
 - Python scripts for data processing and API testing
--OutputFiles/: Generated sample data and Tableau workbook files
+- OutputFiles/: Generated sample data and Tableau workbook files
 - Assessment question
 
 Key Files
